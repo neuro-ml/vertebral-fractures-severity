@@ -1,3 +1,5 @@
+[[arxiv]](https://arxiv.org/abs/2005.11960) [[springer]](https://link.springer.com/chapter/10.1007/978-3-030-59725-2_70)
+
 This repository contains annotated vertebrae heights for 100 randomly selected 
 images from the [MoscowRadiology-CTLungCa-500](https://mosmed.ai/en/datasets/ct_lungcancer_500/)
 dataset. 

@@ -18,7 +18,7 @@ def load_image(root, annotation):
     annotation
         the annotation loaded from one of the files in the `annotation` folder.
     """
-    folder = Path(root) / 'Для публикации v3' / 'Dicom' / annotation['Folder']
+    folder = Path(root) / 'dicom' / annotation['Folder']
     assert folder.exists(), 'Wrong dataset root'
 
     files = []

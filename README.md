@@ -14,6 +14,11 @@ in order to be able to compare different methods for vertebrae fractures detecti
 
 `example.py` contains an example of matching the annotation with images from the dataset.
 
+## Interpolation along curves
+
+We also released the full code for interpolation along curves, used in our paper. 
+It is available [here](https://github.com/neuro-ml/straighten).
+
 # Questions
 
 If you have any questions please feel free to open an [issue](https://github.com/neuro-ml/vertebral-fractures-severity/issues).
